@@ -44,6 +44,10 @@ margin:10px;
 .search{
 	padding-top: 10px;
 }
+.pic{
+	float: left;
+	padding:0px 10px 10px 10px;
+}
 /* right  */
 .rightBoredr{
 	border: #888888 2px solid;
