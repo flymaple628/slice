@@ -1,0 +1,77 @@
+.col-centered{
+	width: 728px;
+	margin: 0px auto 0px auto;
+}
+
+.rightMar{
+margin:10px;
+}
+.logo{
+	padding: 10px;
+}
+/*header*/
+.header{
+	margin-bottom: 20px;
+}
+.headtop{
+	background: black;
+	height: 60px;
+}
+.outside{
+	float: left;
+}
+.ouside img{
+	padding: 3px;
+}
+.menu{
+	float: right;
+	margin: 10px;
+}
+.menu a{
+	font-size: 1.5em;
+	margin: 10px;
+}
+.shead{
+	background: #aaaaaa;
+	height: 70px;
+}
+.smenu{
+	font-size: 1.2em;
+	padding-left:20px;
+	padding-top: 20px;
+
+}
+.search{
+	padding-top: 10px;
+}
+/* right  */
+.rightBoredr{
+	border: #888888 2px solid;
+	margin-top: 4px;
+}
+.rightContent{
+	padding: 5px;
+	border-bottom: #888888 2px solid;
+}
+.rightRadio{
+	border:#0000FF 1px solid;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	margin: 3px auto;
+	text-align: center;
+}
+/*bannerAdversi*/
+.banneradverse{
+	margin: 5%;
+}
+/*footer*/
+.footer{
+	background: black;
+	margin-top: 20px;
+	padding-top: 20px;
+	border-top: #00ffff 2px solid;
+}
+.fcontain{
+	padding: 10px,20px;
+}
